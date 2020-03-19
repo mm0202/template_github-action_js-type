@@ -7,7 +7,7 @@
 * cloneしてリポートリポジトリの設定を変更するか、ファイルを移動・設置
 * `.github/workflows/main.yml`のアクションリポジトリの指定部分を作成したリポジトリに変更
 
-## trace from [JavaScript アクションを作成する](https://help.github.com/ja/actions/building-actions/creating-a-javascript-action)
+## This is trace from [JavaScript アクションを作成する](https://help.github.com/ja/actions/building-actions/creating-a-javascript-action)
 
 ## Hello world javascript action
 
